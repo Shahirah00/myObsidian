@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c146aa9eb4ff3a81","type":"text","text":"Heritage buildings","x":-160,"y":-260,"width":250,"height":60},
+		{"id":"c8ec811f3cb309a2","type":"text","text":"Machine Learning","x":220,"y":-82,"width":250,"height":60},
+		{"id":"d573f92216eb7349","x":-580,"y":-100,"width":400,"height":400,"type":"file","file":"__Papers/XGBoost algorithm-based prediction of concrete electrical resistivity for.pdf"},
+		{"id":"68aa0a6e6a2de2f3","x":20,"y":40,"width":208,"height":162,"type":"file","file":"__Media/flower.jpg"},
+		{"id":"1f5309f51b6fc16a","x":360,"y":100,"width":349,"height":317,"color":"4","type":"file","file":"1️⃣ Primary Sources/Shahizan 2020.md"},
+		{"id":"2ba1d263891d87b1","x":-380,"y":380,"width":504,"height":260,"type":"text","text":"<iframe width=\"460\" height=\"215\" src=\"https://www.youtube.com/embed/DapsQkjtmr8?si=uYY-NMvcLQ33XcT5\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"5b2c1483ea76d116","fromNode":"c146aa9eb4ff3a81","fromSide":"bottom","toNode":"c8ec811f3cb309a2","toSide":"top"},
+		{"id":"7c157da088673092","fromNode":"c146aa9eb4ff3a81","fromSide":"bottom","toNode":"68aa0a6e6a2de2f3","toSide":"top"},
+		{"id":"bd8b7181196bc13c","fromNode":"c146aa9eb4ff3a81","fromSide":"bottom","toNode":"d573f92216eb7349","toSide":"right"},
+		{"id":"837895b58d4ebf62","fromNode":"c8ec811f3cb309a2","fromSide":"bottom","toNode":"1f5309f51b6fc16a","toSide":"top"},
+		{"id":"720319d57eef24bf","fromNode":"68aa0a6e6a2de2f3","fromSide":"bottom","toNode":"2ba1d263891d87b1","toSide":"top"}
+	]
+}

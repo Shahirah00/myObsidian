@@ -1,0 +1,324 @@
+{
+  "main": {
+    "id": "062bb2dd732d5070",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da49ba4f4864e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a92e28b2b40bd0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/Kanban board.md"
+              }
+            }
+          },
+          {
+            "id": "c1eb67bd188646a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/Zotero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d1be2d0471ccc95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123bdbc78ab2b458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0423191f768cbdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/Dataview 1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed01c3f9f1fd96bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14a12ca0af9a7bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/👓 List of Papers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3953b8dd3c51f530",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -268.30000000000007,
+                  "y": -9.875000000000492,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "a042c517b41376b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "705a183a696bd344",
+    "type": "split",
+    "children": [
+      {
+        "id": "893caea0b62ba53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e9c833c39092e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79030114292247cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6122b32f9984510f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4ab73e5ca81d4fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 232.5
+  },
+  "right": {
+    "id": "f1027b9aeedb0cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e93ef09024c4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7832789618f5a81a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebfab15fcc5d8d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/SLR github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "897d8f0c7eaed2e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6857a43a16461b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/SLR github.md"
+              }
+            }
+          },
+          {
+            "id": "ccc3dcce557eede7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a042c517b41376b4",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Canvas/Sample.canvas",
+    "Canvas/Start here.canvas",
+    "Canvas/Research Mindmap.canvas",
+    "Canvas/Reference Manager.canvas",
+    "Canvas/Readme canvas.md",
+    "Canvas/Media Dashboard.canvas",
+    "Canvas/Library Dashboard.canvas",
+    "Canvas/Homepage.canvas",
+    "Canvas/Brainstorm.canvas",
+    "Canvas/Book Dashboard.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/Mind mapping.md",
+    "Mind Map/IoT blockchain.md",
+    "Dataview/👓 List of Papers.md",
+    "Markdown/Markdown.md",
+    "Dataview/Dataview 1.md",
+    "Mind Map/Check box.md",
+    "Untitled 2.md",
+    "Kanban/MyKanban.md",
+    "Untitled 1.md",
+    "__Papers/XGBoost algorithm-based prediction of concrete electrical resistivity for.pdf",
+    "Untitled.md",
+    "NurShahirah 2024.md",
+    "Zotero/Zotero.md",
+    "__Papers/Waleed 2023.pdf",
+    "__Media/Zettelkasten steps.png",
+    "__Media/flower.jpg",
+    "__Media/Pasted Image 20240202102119_150.png",
+    "__Media/Pasted Image 20240202095039_003.jpg",
+    "Read this paper.md",
+    "__Papers/Connell 1964.pdf",
+    "Readlist1.md",
+    "Excalidraw/mind map.md",
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "My Kanban.md",
+    "Kanban/Kanban board.md",
+    "Excalidraw/0 Start.md",
+    "Excalidraw/Drawing 2024-02-04 11.29.18.excalidraw.md",
+    "Exercise 2/Combine.md",
+    "Excalidraw/Timeline.md",
+    "Pasted Image 20240204111343_626.png",
+    "Exercise 2",
+    "Canvas",
+    "Kanban",
+    "Zotero",
+    "Markdown",
+    "Zettelkasten",
+    "Z",
+    "Pasted Image 20240202101844_201.png",
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
+    "__Media/Pasted image 20221214131115.png",
+    "__Media/Pasted image 20221214125814.png",
+    "__Media/Pasted image 20221214124807.png",
+    "Untitled 1.canvas"
+  ]
+}
